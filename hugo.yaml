@@ -1,0 +1,50 @@
+baseURL: http://localhost
+languageCode: en-us
+title: Portado
+theme: hextra_portato
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      footnote: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Documentation
+      pageRef: /docs/introduction/
+      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 2
+    - name: Search
+      weight: 3
+      params:
+        type: search
+    - name: GitHub
+      weight: 4
+      url: "https://github.com/arbaaz29/Portado"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    displayToggle: true
+    logo:
+      path: images/logo.png
+      dark: images/logo-dark.png
+      link: /
+      width: 40
+      height: 20
+
+services:
+  googleAnalytics:
+    ID: G-VXGPG97DGE

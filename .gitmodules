@@ -1,0 +1,3 @@
+[submodule "themes/hextra_portado"]
+	path = themes/hextra_portado
+	url = https://github.com/arbaaz29/hextra_portato.git
