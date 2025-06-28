@@ -23,6 +23,8 @@ Portado is a flavour of Apache Guacamole. Apache Guacamole is a clientless remot
 
 - Users access Guacamole through a URL, log in, and can manage or access their remote systems all from the browser.
 
+![portadoo](/Guacamole/portadoo.png)
+
 ### Features
 
 - Clientless Access
