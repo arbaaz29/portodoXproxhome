@@ -1,13 +1,13 @@
 ---
-title: Apache Guacamole
+title: Portado
 weight: 8
 ---
 
-[Let's setup Apache Guacamole !!!!!!!](https://github.com/arbaaz29/guacamole-docker-compose)
+[Let's setup Portado !!!!!!!](https://github.com/arbaaz29/guacamole-docker-compose)
 
 ### Overview
 
-Apache Guacamole is a clientless remote desktop gateway that allows users to access their desktops and servers from a web browser, without needing to install any software or plugins. It supports standard remote access protocols such as VNC, RDP, and SSH.
+Portado is a flavour of Apache Guacamole. Apache Guacamole is a clientless remote desktop gateway that allows users to access their desktops and servers from a web browser, without needing to install any software or plugins. It supports standard remote access protocols such as VNC, RDP, and SSH.
 
 - Guacamole Client (Web App):
 
@@ -37,7 +37,7 @@ Apache Guacamole is a clientless remote desktop gateway that allows users to acc
 
 - Cross-Platform
 
-    - Works on any device with a modern browser — including smartphones and tablets.
+    - Works on any device with a modern browser, including smartphones and tablets.
 
 - Protocol Support
 
