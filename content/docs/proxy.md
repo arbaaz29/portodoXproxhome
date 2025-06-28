@@ -46,5 +46,5 @@ To sum it up, a reverse proxy sits in front of an origin server and ensures that
 - I am port forwarding to port 8080 because I am using port 80 and port 443 for other applications. As long as you are not using port 80 and 443 for anything, you should be good with this configuration. Otherwise, you will have to allow traffic over port 8080 between LAN and DMZ for the Guacamole server and Nginx-Reverse-Proxy in the firewall.
 
 {{< callout type="warning" >}}
-  Portado is still in **active** development. Questions/Suggestions: [open an issue](https://github.com/arbaaz29/Portado/issues)
+  Portado is still in **active** development. Questions/Suggestions: [open an issue](https://github.com/arbaaz29/portodoXproxhome/issues)
 {{< /callout >}}

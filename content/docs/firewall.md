@@ -54,5 +54,5 @@ I have abstracted the IPs for security concerns:
 Once the rules are configured, you should be able to access the internet on your reverse proxy present in the DMZ, and it should be able to connect and direct traffic to the Guacamole server without any issue.
 
 {{< callout type="warning" >}}
-  Portado is still in **active** development. Questions/Suggestions: [open an issue](https://github.com/arbaaz29/Portado/issues)
+  Portado is still in **active** development. Questions/Suggestions: [open an issue](https://github.com/arbaaz29/portodoXproxhome/issues)
 {{< /callout >}}
