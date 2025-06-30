@@ -33,5 +33,5 @@ I have opted for Cloudflare because of its ease of use, good pricing, and perfor
 
 
 {{< callout type="warning" >}}
-  Portado is still in **active** development. Questions/Suggestions: [open an issue](https://github.com/arbaaz29/portodoXproxhome/issues)
+  Portado is still in **active** development. Questions/Suggestions: [open an issue](https://github.com/arbaaz29/Portado/issues)
 {{< /callout >}}

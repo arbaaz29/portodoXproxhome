@@ -4,21 +4,21 @@ weight: 1
 next: /docs/installation
 prev: /docs
 ---
-## 😉
 
 {{< callout type="warning" >}}
-  **Ah, the Portado login? Yeah… that ship has sailed. Site’s moved!**
+  You seek Protado?
+  It was here, once. But some doors stay closed for a reason.
 {{< /callout >}}
 
 Welcome to my Portado setup documentation!
 
-I am self hosting the whole website on my ProxHome homelab (Powered by ProxMox).
+This website is hosted on my homelab!
 
-Greetings from the ProxHome homelab!!!!
+Yay!!!! Docker ❤️
+{{< cards >}}
+{{< card link="https://portado.arbaazjamadar.com" title="Portado" icon="avacado" subtitle="Edge optimized full article " >}}
+{{< /cards >}}
 
-(Thanks docker😉)
-
-[Click Here](https://portado.arbaazjamadar.com), to read the full article served on cloudflare!!
 
 ## What is Portado?
 

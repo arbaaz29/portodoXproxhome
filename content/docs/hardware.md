@@ -20,5 +20,5 @@ To create a reliable yet compact setup, I've carefully selected the following ha
 - An external cooling system like fan can help maintain temprature and keep the system stable under stress.
 
 {{< callout type="warning" >}}
-  Portado is still in **active** development. Questions/Suggestions: [open an issue](https://github.com/arbaaz29/portodoXproxhome/issues)
+  Portado is still in **active** development. Questions/Suggestions: [open an issue](https://github.com/arbaaz29/Portado/issues)
 {{< /callout >}}
